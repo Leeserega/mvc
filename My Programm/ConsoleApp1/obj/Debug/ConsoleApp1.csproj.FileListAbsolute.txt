@@ -1,0 +1,20 @@
+C:\С#\2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\С#\2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\С#\2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\С#\2\ConsoleApp1\ConsoleApp1\bin\Debug\SmallBasicLibrary.dll
+C:\С#\2\ConsoleApp1\ConsoleApp1\bin\Debug\SmallBasicLibrary.xml
+C:\С#\2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\С#\2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\С#\2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\С#\2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\С#\2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\С#\My Programm\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\С#\My Programm\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\С#\My Programm\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\С#\My Programm\ConsoleApp1\bin\Debug\SmallBasicLibrary.dll
+C:\С#\My Programm\ConsoleApp1\bin\Debug\SmallBasicLibrary.xml
+C:\С#\My Programm\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\С#\My Programm\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\С#\My Programm\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\С#\My Programm\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\С#\My Programm\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
